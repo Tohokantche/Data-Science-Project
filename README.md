@@ -14,7 +14,7 @@ In an effort to optimize marketing efficiency and enhance customer experience, t
 2. Create effective retention strategies for high-value customers.  
 3. Optimize resource allocation, such as inventory management, pricing strategies, and store layouts.  
 
-
+---
 # PROJECT 2 : Predict leads conversion to customers
 
 ## Business Context
