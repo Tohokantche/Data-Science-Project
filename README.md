@@ -6,8 +6,6 @@ A leading retail company with a rapidly growing customer base seeks to gain deep
 
 With the competition intensifying in the retail space, moving away from generic strategies to more targeted and personalized approaches is essential for sustaining a competitive edge.  
 
----
-
 #### **Objective**  
 In an effort to optimize marketing efficiency and enhance customer experience, the company has embarked on a mission to identify distinct customer segments. By understanding the characteristics, preferences, and behaviors of each group, the company aims to:  
 1. Develop personalized marketing campaigns to increase conversion rates.  
@@ -15,9 +13,10 @@ In an effort to optimize marketing efficiency and enhance customer experience, t
 3. Optimize resource allocation, such as inventory management, pricing strategies, and store layouts.  
 
 ----
+
 # PROJECT 2 : Predict leads conversion to customers
 
-## Business Context
+## **Business Context**
 
 The EdTech industry has been surging in the past decade immensely, and according to a forecast, the Online Education market would be worth $286.62bn by 2023 with a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The modern era of online education has enforced a lot in its growth and expansion beyond any limit. Due to having many dominant features like ease of information sharing, personalized learning experience, transparency of assessment, etc, it is now preferable to traditional education.
 
